@@ -9,7 +9,7 @@
 #### 安装方法一：
 
 ```py
-net install cuse, from("https://www.czxa.top/cuse")
+net install cuse, from("http://www.czxa.top/cuse")
 ```
 
 #### 安装方法二：
