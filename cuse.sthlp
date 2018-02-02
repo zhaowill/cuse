@@ -25,7 +25,7 @@
 {cmd:{opt c:lear}}: 选择是否清空当前数据集。{p_end}
 
 {phang}
-{cmd:{opt w:eb}}: 指定调用远端仓库的数据集。默认调用本地仓库的数据集{p_end}
+{cmd:{opt w:eb}}: 指定调用远端仓库的数据集。默认调用本地仓库的数据集。{p_end}
 
 {phang}
 {cmd:{opt s:avetosystem}}: 指定是否需要将该数据集存入系统文件夹中，以方便使用sysuse命令调用。{p_end}
