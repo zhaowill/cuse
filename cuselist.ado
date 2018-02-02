@@ -21,5 +21,6 @@ prog define cuselist
 	di "【s】"
 	di "--------------------------------------------------"
 	di "1. {stata cuse countycode, c w s: station.dta}: 中国所有火车站车站代码"
+	di "2. {stata cuse smoking, c w s: smoking.dta}: 合成控制法的美国39个洲的香烟销售量数据集"
 	di "--------------------------------------------------"
 end

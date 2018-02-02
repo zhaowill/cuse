@@ -7,7 +7,7 @@
 {title:标题}
 
 {phang}
-{bf:cuse} {hline 2} 查看我的数据仓库里面的所有数据集介绍。{p_end}
+{bf:cuselist} {hline 2} 查看我的数据仓库里面的所有数据集介绍。{p_end}
 
 {title:语法}
 
