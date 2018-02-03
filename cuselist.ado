@@ -4,6 +4,8 @@ prog define cuselist
 	di "【c】"
 	di "--------------------------------------------------"
 	di "1. {stata cuse countycode, c w s: countycode.dta}: 中国各省市区县编号(即身份证前六位号码)"
+	di "2. {stata cuse china_label, c w s: china_label.dta}: 中国地图标签"
+	di "3. {stata cuse china_map, c w s: china_map.dta}: 中国地图数据"
 	di "--------------------------------------------------"
 	di "【h】"
 	di "--------------------------------------------------"
