@@ -1,6 +1,9 @@
 *! 显示数据库中的所有数据集
 cap prog drop cuselist
 prog define cuselist
+	di "【0】"
+	di "--------------------------------------------------"
+	di "1. {stata cuse 000001, c w s: 000001.dta}: 平安银行历史股票数据"
 	di "【c】"
 	di "--------------------------------------------------"
 	di "1. {stata cuse countycode, c w s: countycode.dta}: 中国各省市区县编号(即身份证前六位号码)"
