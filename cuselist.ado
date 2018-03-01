@@ -6,6 +6,7 @@ prog define cuselist
 	di "1. {stata cuse 000001, c w s: 000001.dta}: 平安银行历史股票数据"
 	di "【c】"
 	di "--------------------------------------------------"
+	di "1. {stata cuse cellmapdata, c w s: cellmapdata.dta}: 中国蜂窝地图各个省份的位置坐标"
 	di "1. {stata cuse countycode, c w s: countycode.dta}: 中国各省市区县编号(即身份证前六位号码)"
 	di "2. {stata cuse china_label, c w s: china_label.dta}: 中国地图标签"
 	di "3. {stata cuse china_map, c w s: china_map.dta}: 中国地图数据"
