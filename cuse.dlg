@@ -35,7 +35,7 @@ BEGIN
 	TEXTBOX myintro1	@	+40		@	.,	label("▶️欢迎使用我的个人数据库，这里存放了我平时搜集和整")
 	
 	TEXT myintro2	@	+20		@	.,	label("理的一些非常有用的数据集。这些数据集包括股票数据、地")
-	TEXT myintro3	@	+20		@	.,	label("理数据、常用经济数据、平时我自己爬取的一些数据集。")
+	TEXT myintro3	@	+20		@	.,	label("理数据、常用经济数据以及平时我自己爬取的一些数据集。")
 
 	TEXT myintro4	@	+20		@	.,	label("▶️这些Stata数据集经常在我的推文或博客文章中被使用，运行")
 	TEXT myintro5	@	+20		@	.,	label("cuselist命令可以查看当前数据仓库中的所有数据集。")
