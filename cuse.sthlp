@@ -14,9 +14,13 @@
 {p 8 18 2}
 {cmdab:cuse} {cmd: filename} {cmd:,} [{cmd:{opt c:lear}} {cmd:{opt w:eb}} {cmd:{opt s:avetosystem}}]
 
-{pstd}{cmd: 描述:}{p_end}
+{p 8 18 2}
+{cmdab:db} {cmd: cuse}
 
+
+{title:描述}
 {pstd}{space 3}{cmd: filename}: 需要使用的数据集的名字。{p_end}
+{pstd}{space 3}{cmd: db cuse}: 可以打开一个对话框操作。{p_end}
 
 {marker options}{...}
 {title:选项}
@@ -32,6 +36,9 @@
 
 {title:示例}
 
+{phang}
+{stata `"db cuse"'}
+{p_end}
 {phang}
 {stata `"cuse station, c"'}
 {p_end}
