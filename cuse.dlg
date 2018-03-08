@@ -4,6 +4,7 @@ POSITION . . 330 270
 LIST dtalist
 BEGIN
 	000001
+	amricancellmapdata
 	cellmapdata
 	countycode
 	china_label
@@ -13,6 +14,7 @@ BEGIN
 	cjd1617
 	huaihe
 	jdcourse2018a
+	jd2017zsjh
 	life_expentancy
 	pm10
 	population
