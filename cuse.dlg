@@ -12,14 +12,19 @@ BEGIN
 	china_city_spatial_distance
 	china_province_spatial_distance
 	cjd1617
+	cpi
+	gdpjdlj
 	huaihe
 	jdcourse2018a
 	jd2017zsjh
 	life_expentancy
+	moneysupply
 	pm10
 	population
 	station
 	smoking
+	sexratio
+	titanic
 END
 
 
