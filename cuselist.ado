@@ -17,6 +17,7 @@ prog define cuselist
 	di "5. {stata cuse china_province_spatial_distance.dta, c w s: china_province_spatial_distance.dta}: 中国省级地图数据集"
 	di "6. {stata cuse cjd1617.dta, c w s: cjd1617.dta}: 金融学16和17年成绩单"
 	di "7. {stata cuse cpi.dta, c w s: cpi.dta}: 中国CPI2008/1-2017/11"
+	di "8. {stata cuse countrysexratio.dta, c w s: countrysexratio.dta}: knoema各国总人口性别比例数据"
 	di "--------------------------------------------------"
 	di "【g】"
 	di "--------------------------------------------------"
