@@ -20,7 +20,8 @@
 
 {title:描述}
 {pstd}{space 3}{cmd: filename}: 需要使用的数据集的名字。{p_end}
-{pstd}{space 3}{cmd: db cuse}: 可以打开一个对话框操作。{p_end}
+{pstd}{space 3}{cmd: db cuse}: 可以打开一个对话框操作（这个只能调用我自己的数据集）。{p_end}
+{pstd}另外我的数据仓库里面涵盖了陈强《计量经济学及Stata应用》和《高级计量经济学及Stata应用》两本书的数据集。可以直接调用，但是需要注意，如果你想调用的数据集的名字里含大写字母，你需要把它调成小写才能调用。{p_end}
 
 {marker options}{...}
 {title:选项}
