@@ -25,6 +25,7 @@ prog define cuselist
 	di "【g】"
 	di "--------------------------------------------------"
 	di "1. {stata cuse gdpjdlj.dta, c w s: gdpjdlj.dta}: 中国GDP季度累计2006/第一季度-2017/第三季度"
+	di "2. {stata cuse gini_prov.dta, c w s: gini_prov.dta}: 1995-2010中国各省份Gini系数"
 	di "【h】"
 	di "--------------------------------------------------"
 	di "1. {stata cuse huaihe, c w s: huaihe.dta}: 2017年淮河供暖政策对人预期寿命的影响模仿数据集"
@@ -46,6 +47,7 @@ prog define cuselist
 	di "--------------------------------------------------"
 	di "1. {stata cuse pm10, c w s: pm10.dta}: 2017年淮河供暖政策对人预期寿命影响的原始数据集"
 	di "2. {stata cuse population, c w s: population.dta}: 2010年中国各区县人口"
+	di "3. {stata cuse population_prov, c w s: population_prov.dta}: 2002-2014年全国各省市年末人口"
 	di "--------------------------------------------------"
 	di "【s】"
 	di "--------------------------------------------------"
@@ -57,5 +59,4 @@ prog define cuselist
 	di "--------------------------------------------------"
 	di "1. {stata cuse titanic, c w s: titanic.dta}: 泰坦尼克号生存数据集"
 	di "另外我的数据仓库里面涵盖了陈强《计量经济学及Stata应用》和《高级计量经济学及Stata应用》两本书的数据集。可以直接调用，但是需要注意，如果你想调用的数据集的名字里含大写字母，你需要把它调成小写才能调用。"
-
 end
