@@ -16,6 +16,7 @@ BEGIN
 	countrysexratio
 	echarts_worldmap
 	gdpjdlj
+	gini_prov
 	huaihe
 	houseprice
 	jdcourse2018a
@@ -24,6 +25,7 @@ BEGIN
 	moneysupply
 	pm10
 	population
+	population_prov
 	station
 	smoking
 	sexratio
