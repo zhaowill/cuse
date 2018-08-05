@@ -19,6 +19,7 @@ prog define cuselist
 	di "7. {stata cuse cpi.dta, c w s: cpi.dta}: 中国CPI2008/1-2017/11"
 	di "8. {stata cuse countrysexratio.dta, c w s: countrysexratio.dta}: knoema各国总人口性别比例数据"
 	di "9. {stata cuse ctbc2.dta, c w s: ctbc2.dta}: 中债国债2002-2017年国债到期收益率"
+	di "10. {stata cuse cnstockholiday.dta, c w s: cnstockholiday.dta}: 上交所与深交所休市日期"
 	di "--------------------------------------------------"
 	di "【d】"
 	di "--------------------------------------------------"
